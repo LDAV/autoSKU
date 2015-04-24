@@ -2,7 +2,7 @@
 Contributors: labdav
 Tags: WooCommerce, SKU, autoSKU, ldav
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 0.1b
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
@@ -12,7 +12,7 @@ Automatically assign unique SKU to all your product variations, adding a letter 
 
 Automatically assign unique SKU to all your product variations, adding a letter (a, b, c, ...) to the main product SKU.
 
-Tested up to WooCommerce 2.2.10
+Tested up to WooCommerce 2.3.8
 
 Respect to other SKU generators, we needed a simple tool that produces a very short SKU code, to be easily written even on a barcode.
 

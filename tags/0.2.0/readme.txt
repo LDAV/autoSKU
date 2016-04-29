@@ -13,7 +13,7 @@ Automatically assign unique SKU to all your product variations, adding a letter 
 Automatically assign unique SKU to all your product variations, adding a letter (a, b, c, ...) to the main product SKU.
 Assegna automaticamente un codice unico SKU a tutte le variazioni del prodotto, aggiungendo una lettera (a,b,c, ...) allo SKU del prodotto principale.
 
-Tested up to WooCommerce 2.4.6
+Tested up to WooCommerce 2.4.4
 
 Respect to other SKU generators, we needed a simple tool that produces a very short SKU code, to be easily written even on a barcode.
 
